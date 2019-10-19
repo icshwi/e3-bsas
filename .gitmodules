@@ -1,0 +1,4 @@
+[submodule "bsas"]
+	path = bsas
+	url = https://github.com/slaclab/bsas.git
+	ignore = all
